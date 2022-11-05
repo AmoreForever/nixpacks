@@ -11,9 +11,9 @@ Python is detected if a `main.py` OR `requirements.txt` OR `pyproject.toml` file
 The following Python versions are available
 
 - `3.11`
-- `3.10`
+- `3.10` (Default)
 - `3.9`
-- `3.8` (Default)
+- `3.8`
 - `3.7`
 - `2.7`
 
